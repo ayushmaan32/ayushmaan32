@@ -10,7 +10,7 @@ I am a Full-stack developer and I possess strong skills in Node.js, React.js, Mo
 * ✉️  You can contact me at [ayushmaanroy.12@gmail.com](mailto:ayushmaanroy.12@gmail.com)
 * 🚀  I'm currently working on [Leetcode Clone](http://leetcode-clone-phi.vercel.app/)
 * 🤝  I'm open to collaborating on MERN Stack Projects
-* ⚡  I'm Batman
+* ⚡  Trust the process
 
 <a href="https://www.github.com/ayushmaan32" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ayushmaan32?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
