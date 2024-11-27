@@ -6,10 +6,10 @@ Full Stack Developer
 
 I am a Full-stack developer and I possess strong skills in Node.js, React.js, MongoDB, SQL, Express.js, HTML, CSS, JavaScript, TypeScript. I am proficient in using code versioning tools like Git and have strong problem solving and analytical skills. I can work effectively in both individual and team environments, and I am passionate about my career and I strive to continually develop my skills and abilities
 
-* 🌍  I'm based in Bengaluru, Bangalore, Karnataka, IND
+* 🌍  I'm based in Hyderabad, Teleangana, IND
 * ✉️  You can contact me at [ayushmaanroy.12@gmail.com](mailto:ayushmaanroy.12@gmail.com)
 * 🚀  I'm currently working on [Leetcode Clone](http://leetcode-clone-phi.vercel.app/)
-* 🤝  I'm open to collaborating on MERN Stack Projects
+* 🤝  I'm open to collaborating on MERN, ASP.Net core, C# Projects
 * ⚡  Trust the process
 
 <a href="https://www.github.com/ayushmaan32" target="_blank" rel="noreferrer"><img
