@@ -8,7 +8,6 @@ I am a Full-stack developer and I possess strong skills in Node.js, React.js, Mo
 
 * 🌍  I'm based in Hyderabad, Teleangana, IND
 * ✉️  You can contact me at [ayushmaanroy.12@gmail.com](mailto:ayushmaanroy.12@gmail.com)
-* 🚀  I'm currently working on [Leetcode Clone](http://leetcode-clone-phi.vercel.app/)
 * 🤝  I'm open to collaborating on MERN, ASP.Net core, C# Projects
 * ⚡  Trust the process
 
